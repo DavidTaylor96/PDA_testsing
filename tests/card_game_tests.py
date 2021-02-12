@@ -19,4 +19,4 @@ class TestCardGame(unittest.TestCase):
         card3 = Card("Hearts", 7)
         total = (card1, card2, card3)
 
-        self.assertEqual(18, CardGame().cards_total(total))
+        self.assertEqual("You have a total of 18", CardGame().cards_total(total))
