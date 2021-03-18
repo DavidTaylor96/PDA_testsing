@@ -1,4 +1,4 @@
-# Static_testsing_and_Problem-solving
+# Static and Dynamic Testing
 
 <h2>Task1: static Testing</h2>
 
